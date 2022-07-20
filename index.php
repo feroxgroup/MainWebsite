@@ -116,7 +116,7 @@ understanding of your product, what could stop you? We’re going to bet nothing
                             <div class="image-box" data-aos="fade-up">
                                 <img src="./images/team-bradp.jpg">
                             </div>
-                            <h3 data-aos="fade-right" class="balboa">Bradley Pokorny</h3>
+                            <h3 data-aos="fade-right" class="balboa">Bradley Pokorny, MBA</h3>
                             <div class="bullets" data-aos="fade-up">
                                 <ul class="mono">
                                     <li>Chief Executive Officer</li>
@@ -134,7 +134,7 @@ understanding of your product, what could stop you? We’re going to bet nothing
                             <div class="image-box" data-aos="fade-up" data-aos-delay="100">
                                 <img src="./images/team-ilinai.jpg">
                             </div>
-                            <h3 data-aos="fade-right" class="balboa">Ilina Ivanova</h3>
+                            <h3 data-aos="fade-right" class="balboa">Ilina Ivanova, MBA</h3>
                             <div class="bullets" data-aos="fade-up" data-aos-delay="100">
                                 <ul class="mono">
                                     <li>Chief Operations Officer</li>
@@ -186,6 +186,45 @@ understanding of your product, what could stop you? We’re going to bet nothing
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="flex-row">
+                    <div class="meet-col">
+						<div class="bio"></div>
+                        <div class="image">
+                            <div class="image-box" data-aos="fade-up">
+                                <img src="./images/team-timothyl.jpg">
+                            </div>
+                            <h3 data-aos="fade-right" class="balboa">Mossiev Quintero</h3>
+                            <div class="bullets" data-aos="fade-up">
+                                <ul class="mono">
+                                    <li>Formulations/Manufacturing Ops</li>
+                                    <li>US Army Special Operations</li>
+                                    <li>OIF/OEF</li>
+                                    <li>BS Information Technology, AMU</li>
+                                    <li>Advanced Dietary Supplements Advisor, IHS</li>
+                                    <li>Anti-Aging Specialist</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="meet-col">
+                        <div class="image">
+                            <div class="image-box" data-aos="fade-up" data-aos-delay="100">
+                                <img src="./images/team-ashleym.jpg">
+                            </div>
+                            <h3 data-aos="fade-right" class="balboa">Ashley Matthews</h3>
+                            <div class="bullets" data-aos="fade-up" data-aos-delay="100">
+                                <ul class="mono">
+                                    <li>Chief Financial Officer</li>
+                                    <li>Business Finance</li>
+                                    <li>Texas State University</li>
+                                    <li style="visibility: hidden;"></li>
+                                    <li style="visibility: hidden;"></li>
+                                    <li style="visibility: hidden;"></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> -->
                 </div>
                 <div class="text-bg">
                     <img src="images/text-yourteam.svg">
