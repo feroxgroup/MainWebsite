@@ -192,7 +192,7 @@ understanding of your product, what could stop you? We’re going to bet nothing
 						<div class="bio"></div>
                         <div class="image">
                             <div class="image-box" data-aos="fade-up">
-                                <img src="./images/team-timothyl.jpg">
+                                <img src="./images/team-mossievq.jpg">
                             </div>
                             <h3 data-aos="fade-right" class="balboa">Mossiev Quintero</h3>
                             <div class="bullets" data-aos="fade-up">
