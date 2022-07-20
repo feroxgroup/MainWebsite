@@ -114,7 +114,7 @@ understanding of your product, what could stop you? We’re going to bet nothing
 						<div class="bio"></div>
                         <div class="image">
                             <div class="image-box" data-aos="fade-up">
-                                <img src="./images/team-bradp.png">
+                                <img src="./images/team-bradp.jpg">
                             </div>
                             <h3 data-aos="fade-right" class="balboa">Bradley Pokorny</h3>
                             <div class="bullets" data-aos="fade-up">
@@ -132,17 +132,17 @@ understanding of your product, what could stop you? We’re going to bet nothing
                     <div class="meet-col">
                         <div class="image">
                             <div class="image-box" data-aos="fade-up" data-aos-delay="100">
-                                <img src="./images/team-collins.png">
+                                <img src="./images/team-ilinai.jpg">
                             </div>
-                            <h3 data-aos="fade-right" class="balboa">Collin Snyder</h3>
+                            <h3 data-aos="fade-right" class="balboa">Ilina Ivanova</h3>
                             <div class="bullets" data-aos="fade-up" data-aos-delay="100">
                                 <ul class="mono">
-                                    <li>Chief Creative Officer</li>
-                                    <li>75th Ranger Regiment</li>
-                                    <li>OIF / OEF</li>
-                                    <li>Media, Arts, & Animation</li>
-                                    <li>UX / UI Design</li>
-                                    <li>Art Institute of Houston</li>
+                                    <li>Chief Operations Officer</li>
+                                    <li>MBA in Finance, Northern Illinois University</li>
+                                    <li>PHR, HRCI</li>
+                                    <li>Professional in Human Capital Management and Finance</li>
+                                    <li style="visibility: hidden;"></li>
+                                    <li style="visibility: hidden;"></li>
                                 </ul>
                             </div>
                         </div>
@@ -153,17 +153,17 @@ understanding of your product, what could stop you? We’re going to bet nothing
 						<div class="bio"></div>
                         <div class="image">
                             <div class="image-box" data-aos="fade-up">
-                                <img src="./images/team-tylerb.jpg">
+                                <img src="./images/team-timothyl.jpg">
                             </div>
-                            <h3 data-aos="fade-right" class="balboa">Tyler Barnes</h3>
+                            <h3 data-aos="fade-right" class="balboa">Timothy Lankau, JD</h3>
                             <div class="bullets" data-aos="fade-up">
                                 <ul class="mono">
-                                    <li>Chief Information Officer</li>
-                                    <li>USMC</li>
-                                    <li>OIF / OEF</li>
-                                    <li>Humanoid Robot</li>
-                                    <li>Too smart for school</li>
-                                    <li style="visibility: hidden;"></li>
+                                    <li>General Counsel for Ferox Group</li>
+                                    <li>Law School, Washington Lee University (Magna Cum Laude)</li>
+                                    <li>Bachelor of Business, Texas A&amp;M</li>
+                                    <li>General Counsel, Ethos Behavioral Health Group</li>
+                                    <li>Equity Partner, The GCF Group</li>
+                                    <li>Specializes in Business Law, Contracts, and Investment/Acquisitions</li>
                                 </ul>
                             </div>
                         </div>
@@ -257,7 +257,7 @@ understanding of your product, what could stop you? We’re going to bet nothing
                                     <img src="images/update/ProductToMarketStrat.jpg">
                                 </div>
                                 <span>
-                                    <h5 class="balboa">Product to Market Strategy</h5>
+                                    <h5 class="balboa">Manufacturing Operations</h5>
                                     <p>Establish an end-to-end vision & roadmap for your product or service.</p>
                                 </span>
                             </div>
