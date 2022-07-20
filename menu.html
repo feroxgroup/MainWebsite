@@ -1,0 +1,90 @@
+<!-- REPLACE CURRENT MENU HTML WITH THIS -->
+<!-- NOTE: You will need to add this IDs (in each href) to each of the sections for the scrollTo to work -->
+<div class="menu">
+    <i class="fal fa-bars"></i>
+    <nav>
+        <ul>
+            <li>
+                <a href="#meet">Meet The Team</a>
+            </li>
+            <li>
+                <a href="#about">About Us</a>
+            </li>
+            <li>
+                <a href="#services">Services</a>
+            </li>
+            <li>
+                <a href="#bottom">Contact Us</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+<!-- ADD THIS CSS TO STYLESHEET -->
+<style>
+    .video {
+        pointer-events: none;
+    }
+
+    header .menu.open i:before {
+        content: "\f00d";
+    }
+
+    header .menu nav {
+        display: none;
+        position: absolute;
+        right: 0;
+        top: 100px;
+        background: white;
+        z-index: 999;
+        padding: 2rem 2rem 0 2rem;
+    }
+
+    header .menu nav ul {
+        display: flex;
+        flex-direction: column;
+        text-align: right;
+        padding: 0;
+        margin: 0;
+    }
+
+    header .menu nav ul li {
+        margin-bottom: 2rem;
+    }
+
+    header .menu nav ul li a {
+        color: black;
+        text-transform: uppercase;
+        font-weight: 900;
+        text-decoration: none;
+        letter-spacing: 4px;
+        text-align: right;
+        width: 100%;
+    }
+</style>
+
+<!-- JQUERY TO MAKE IT WORK -->
+<script>
+    $("document").ready(function () {
+        $(".menu i").click(function () {
+            $(".menu").toggleClass("open");
+            $("nav").slideToggle("fast", function () {
+                // Animation complete.
+            });
+        });
+
+        $("nav").click(function () {
+            $(".menu").toggleClass("open");
+            $(this).slideToggle("fast", function () {
+                // Animation complete.
+            });
+        });
+
+        $("nav a").click(function () {
+            var href = $(this).attr('href');
+            $([document.documentElement, document.body]).animate({
+                scrollTop: $(href).offset().top
+            }, 2000);
+        });
+    });
+</script>
