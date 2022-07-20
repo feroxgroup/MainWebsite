@@ -350,7 +350,7 @@ understanding of your product, what could stop you? We’re going to bet nothing
 
         <footer>
             <div class="center">
-                <p>Copyright &copy; 2021 &middot; Ferox Group</p>
+                <p>Copyright &copy; 2022 &middot; Ferox Group</p>
             </div>
         </footer>
     </div>
